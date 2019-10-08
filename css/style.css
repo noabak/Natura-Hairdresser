@@ -1,4 +1,5 @@
 
+
 body {
   padding-top: 56px;
 }
@@ -6,9 +7,11 @@ body {
 background-color:  #D6C8BB;
 }
 .green{
-color: green;}
+color: green;
+}
 .beige{
-background-color: #EADCBC;}
+background-color: /*#EADCBC;*/ pink;
+}
 
 .services{margin: 100px;}
 
